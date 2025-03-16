@@ -11,6 +11,7 @@
 
 
 
+<<<<<<< HEAD
 # beautifulsoup4==4.9.3
 # Flask==2.0.2
 # googlesearch-python==1.0.1
@@ -33,3 +34,16 @@ beautifulsoup4==4.9.3
 python-dateutil==2.8.2
 whois==0.9.13
 gunicorn==20.1.0
+=======
+beautifulsoup4==4.9.3
+Flask==2.0.2
+googlesearch-python==1.0.1
+numpy==1.23.5
+python-dateutil==2.8.2
+requests==2.25.1
+scikit-learn==1.0.1
+whois==0.9.13
+gunicorn==20.1.0
+pandas==2.0.3
+Werkzeug==2.0.3
+>>>>>>> 44916a6fcd2a4cf4b23db44f4201918fa23704a1
